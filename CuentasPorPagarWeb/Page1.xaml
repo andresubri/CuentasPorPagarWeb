@@ -8,6 +8,7 @@
       d:DesignHeight="300" d:DesignWidth="300"
       Title="Page1">
     <Grid>
-        
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="117,191,0,0" VerticalAlignment="Top" Width="75"/>
+
     </Grid>
 </Page>
